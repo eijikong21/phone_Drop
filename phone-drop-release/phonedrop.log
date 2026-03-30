@@ -1,0 +1,13 @@
+[~] Port 49372 in use, using 49374 instead.
+
++------------------------------------------+
+|          PhoneDrop  [phone -> PC]        |
++------------------------------------------+
+|  Browser: http://localhost:49374        |
+|  Network: http://10.0.0.105:49374       |
++------------------------------------------+
+|  LAN only - not reachable from internet  |
+|  Saving to: ./received/                  |
+|  Ctrl+C to stop                          |
++------------------------------------------+
+
